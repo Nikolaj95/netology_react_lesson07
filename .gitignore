@@ -22,3 +22,26 @@ time/.env.production.local
 time/npm-debug.log*
 time/yarn-debug.log*
 time/yarn-error.log*
+
+# dependencies
+highlight/node_modules
+highlight/.pnp
+highlight/.pnp.js
+highlight/.idea
+
+# testing
+highlight//coverage
+
+# production
+highlight/build
+
+# misc
+highlight/.DS_Store
+highlight/.env.local
+highlight/.env.development.local
+highlight/.env.test.local
+highlight/.env.production.local
+
+highlight/npm-debug.log*
+highlight/yarn-debug.log*
+highlight/yarn-error.log*
